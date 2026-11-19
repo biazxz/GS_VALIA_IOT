@@ -534,7 +534,11 @@ O VALIA possui finalidade informativa e de apoio à análise.
 
 ## 10. Integrantes
 
-Adicionar os nomes completos e RMs de todos os integrantes da equipe.
+- Beatriz Franco RM563686
+- Maria Fernanda Santos Mendes RM565277
+- Giovana Souza Vieira RM564430
+- Luis Guilherme Borges Silva RM566548
+- Leonardo Zerbinatti de Sales RM562992
 
 ## 11. Projeto acadêmico
 
